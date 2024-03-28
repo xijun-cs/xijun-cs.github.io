@@ -21,7 +21,7 @@ My research interests focus on Fundamental Model Design for Computer Vision, esp
 [Jan 2023] 3 papers (AZTR, METEOR, AMD-S-Net) got accepted to ICRA2023\
 [Jul 2022] Paper FAR got accepted to ECCV2022\
 [Feb 2021] Paper DRConv got accepted to CVPR2021\
-[Feb 2019] Paper FLGC got accepted to CVPR2019\
+[Feb 2019] Paper FLGC got accepted to CVPR2019
 
 ## Services
 [2024] Reviewer of CVPR2024, ICML2024, NeurIPS2024, ICLR2024, ECCV2024, AAAI2024, SIGGRAPH2024, ICRA2024, ACCV2024, WACV2024. \
