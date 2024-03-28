@@ -12,8 +12,19 @@ Hi! I am a third Ph.D. student working in GAMMA research group under the guidanc
 My research interests focus on Fundamental Model Design for Computer Vision, especially for Video Understanding and Vision-Language Models.
 
 
-# News
-[2019] one paper gets accepted by CVPR2019
+## Updates
+[Feb 2024] Paper HallusionBench got accepted to CVPR2024
+[Dec 2023] Paper ICAR got accepted to AAAI2024
+[Oct 2023] 2 papers (MITFAS and PMI Sampler) got accepted to WACV2024
+[Jul 2023] Paper CrossLoc3D got accepted to ICCV2023 and paper SCSC got accepted to ICCVW2023
+[Apr 2023] Paper AML got accepted to ICML2023
+[Jan 2023] 3 papers (AZTR, METEOR, AMD-S-Net) got accepted to ICRA2023
+[Jul 2022] Paper FAR got accepted to ECCV2022
+[Feb 2021] Paper DRConv got accepted to CVPR2021
+[Feb 2019] Paper FLGC got accepted to CVPR2019
 
 
-
+## Services
+[2024] Reviewer of CVPR2024, ICML2024, NeurIPS2024, ICLR2024, ECCV2024, AAAI2024, SIGGRAPH2024, ICRA2024, ACCV2024, WACV2024. 
+[2023] Reviewer of CVPR2023, ICCV2023, ICRA2023. 
+[2022] Reviewer of CVPR2022. 
