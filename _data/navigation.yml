@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: https://xijun-cs.github.io/files/xijun.pdf
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Knowledge Sharing"
+    url: /markdown/
