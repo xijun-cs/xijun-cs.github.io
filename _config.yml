@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "xijun.png"
   name             : "Xijun Wang"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD@UMD | Applied Scientist Intern@Amazon/A9"
+  pronouns         : "PhD@UMD" 
+  bio              : "Applied Scientist Intern@Amazon/A9"  
   location         : "MD"
   employer         : "UMD/Amazon"
   uri              : https://xijun-cs.github.io
