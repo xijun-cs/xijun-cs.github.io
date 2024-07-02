@@ -13,6 +13,8 @@ My research interests focus on Fundamental Model Design for Computer Vision, esp
 
 
 ## Updates
+[Jul 2024] ViLA got accepted to ECCV2024\
+[Jun 2024] 3 papers got accepted to IROS2024\
 [Feb 2024] Paper HallusionBench got accepted to CVPR2024\
 [Dec 2023] Paper ICAR got accepted to AAAI2024\
 [Oct 2023] 2 papers (MITFAS and PMI Sampler) got accepted to WACV2024\
@@ -24,6 +26,6 @@ My research interests focus on Fundamental Model Design for Computer Vision, esp
 [Feb 2019] Paper FLGC got accepted to CVPR2019
 
 ## Services
-[2024] Reviewer of CVPR2024, ICML2024, NeurIPS2024, ICLR2024, ECCV2024, AAAI2024, SIGGRAPH2024, ICRA2024, ACCV2024, WACV2024. \
+[2024] Reviewer of TPAMI, CVPR2024, ICML2024, NeurIPS2024, ICLR2024, ECCV2024, AAAI2024, SIGGRAPH2024, ICRA2024, ACCV2024, WACV2024. \
 [2023] Reviewer of CVPR2023, ICCV2023, ICRA2023. \
 [2022] Reviewer of CVPR2022. 
