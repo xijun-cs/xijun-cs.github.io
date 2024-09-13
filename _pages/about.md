@@ -1,5 +1,5 @@
 ---
-permalink: https://xijun-cs.github.io/
+permalink: /
 title: Xijun Wang
 author_profile: true
 redirect_from: 
